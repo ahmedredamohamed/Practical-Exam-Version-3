@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Practical3</string>
+    <string-array name="entries">
+        <item>Dahab</item>
+        <item>Hurgada</item>
+        <item>Sharm El-sheikh</item>
+    </string-array>
+</resources>
